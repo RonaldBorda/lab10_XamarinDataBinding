@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{41215F9F-DC89-4876-A18F-44D8BCC3B929}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab10.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab10/MonkeysPageViewModel.cs">
+    <Files>
+      <File FileName="Lab10/ViewToViewDemo.xaml" Line="22" Column="25" />
+      <File FileName="Lab10/ViewToViewDemo.xaml.cs" Line="1" Column="1" />
+      <File FileName="Lab10/App.xaml" Line="1" Column="1" />
+      <File FileName="Lab10/App.xaml.cs" Line="13" Column="40" />
+      <File FileName="Lab10/ListViewDemo.xaml" Line="15" Column="39" />
+      <File FileName="Lab10/ListViewDemo.xaml.cs" Line="1" Column="1" />
+      <File FileName="Lab10/NamedColor.cs" Line="49" Column="65" />
+      <File FileName="Lab10/PickerDemo.xaml" Line="1" Column="1" />
+      <File FileName="Lab10/PickerDemo.xaml.cs" Line="1" Column="1" />
+      <File FileName="Lab10/Monkey.cs" Line="12" Column="1" />
+      <File FileName="Lab10/MonkeyData.cs" Line="152" Column="1" />
+      <File FileName="Lab10/ViewModelBase.cs" Line="23" Column="1" />
+      <File FileName="Lab10/MonkeysPageViewModel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab10" expanded="True">
+            <Node name="Lab10" expanded="True">
+              <Node name="MonkeysPageViewModel.cs" selected="True" />
+              <Node name="PickerDemo.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lab10.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.13C26554-E19E-4BC7-B70E-E567BE69E341" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

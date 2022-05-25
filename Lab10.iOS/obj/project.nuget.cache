@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PsGCquKwtltcqY5bM+nABnTcUL6dOJ5MxZvAgXornFYM6J0j/zW8NrfD6iJq3ej7ml1QfRPncScNdH23YjiHxg==",
+  "success": true,
+  "projectFilePath": "/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/Lab10/Lab10.iOS/Lab10.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/ronaldborda/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ronaldborda/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/ronaldborda/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
